@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Translator with Gemini AI
+ 
+A simple AI-powered translation tool that translates Chinese audio (MP3, MP4) and text to English and Malay using Google's Gemini AI API.
+ 
+## Features
+ 
+- 🎵 **Audio Translation**: Translate Chinese MP3 and MP4 audio files to English or Malay
+- 📝 **Text Translation**: Translate Chinese text to English or Malay
+- 🇨🇳 **Chinese Source**: Supports Chinese (Mandarin) as input language
+- 🌐 **Dual Output**: Translate to both English and Malay
+- 🤖 **Powered by Gemini AI**: Leverages Google's advanced AI for accurate translations
 
 ## Getting Started
 
